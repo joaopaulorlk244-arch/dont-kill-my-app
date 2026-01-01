@@ -1,4 +1,4 @@
----
+free Fire---
 manufacturer: samsung
 
 ---
